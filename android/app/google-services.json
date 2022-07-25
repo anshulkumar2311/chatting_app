@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288665029021",
+    "project_id": "chatting-app-72b79",
+    "storage_bucket": "chatting-app-72b79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288665029021:android:d74eb9905669e22a0c0774",
+        "android_client_info": {
+          "package_name": "com.Anshul.chatting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288665029021-soesoui5ohps04fbmtgqg450s70geicp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4yuPkfrly310NhFCUBAi17e2Jm59RBeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288665029021-soesoui5ohps04fbmtgqg450s70geicp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
